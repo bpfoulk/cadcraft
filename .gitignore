@@ -9,3 +9,7 @@
 *.swp
 /apps/cadcraft-web/dist/
 /.claude/worktrees/
+
+# Visual Studio personal state
+/.vs/
+*.vcxproj.user

@@ -422,3 +422,5 @@ Forks and modified versions must remove them.
 </p>
 
 Tool Sets, Layers, and Properties can be regrouped, split, floated within the app window, closed, and reopened. The drawing canvas stays visible and cannot be closed or turned into a tab. Drag a panel header to a target edge or another header. Its context menu offers Float panel, Move to group, and Close panel. Existing panel toggles reopen panels at their saved location; Reset Panel Layout restores the app layout. Floating panels remain inside the current app window.
+
+Windows developers can open [CADCraft.slnx](CADCraft.slnx) in Visual Studio 2026. See [the Visual Studio setup guide](docs/visual-studio.md) for prerequisites, Cargo builds and native debugging.
